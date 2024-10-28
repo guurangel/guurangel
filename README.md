@@ -50,10 +50,8 @@
 
 ###
 
-<img align="right" height="175" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/guurangel/guurangel/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif"  />
+</div>
 
 ###
